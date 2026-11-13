@@ -1,7 +1,9 @@
-# Poznań Forced Labor Camps - Image Storage
+# IRemember - Data and Media Storage
 
-This repository serves as a dedicated public storage for the photographic documentation of forced labor camps for Jews in Poznań. These assets are dynamically used by the project's [mobile application](https://i-remember-app.vercel.app) and [landing page](https://i-remember-app.vercel.app).
+This repository is used by the [IRemember project](https://iremember.pl).
 
-## 📁 Repository Structure
+## Repository structure
 
-- `/images` – Contains contemporary photographic documentation.
+- `/data` – Text-based data used by the project.
+- `/images` – Photographs of places documented by IRemember.
+- `/screenshots` – Screenshots showing the application in use.
