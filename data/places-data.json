@@ -30,7 +30,7 @@
     "cities": [
       {
         "id": "poznan",
-        "polygon": "polygons/poznan.json",
+        "polygon": "polygons/poznan-lubon-kiekrz.json",
         "translations": [
           {
             "lang_code": "pl",
