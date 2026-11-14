@@ -7,3 +7,4 @@ This repository is used by the [IRemember project](https://iremember.pl).
 - `/data` – Text-based data used by the project.
 - `/images` – Photographs of places documented by IRemember.
 - `/screenshots` – Screenshots showing the application in use.
+- `/scripts` – Scripts for automation.
